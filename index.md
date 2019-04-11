@@ -1,5 +1,5 @@
 ---
 layout: default
 title: The Manks
-subTitle: A network of computer science students around the world
+subTitle: A network of STEM students around the world
 ---

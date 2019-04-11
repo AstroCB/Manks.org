@@ -32,3 +32,6 @@ social:
   - title: apply
     icon: check
     url: https://forms.gle/bRWLvGCEx7BC9j6s9
+  - title: contact
+    icon: envelope
+    url: mailto:info@manks.org
