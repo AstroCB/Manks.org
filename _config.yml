@@ -6,12 +6,12 @@ url: https://manks.org
 title: The Manks
 email: recruiting@manks.org
 author: Cameron Bernhardt
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+description: > 
+  Manks is an exclusive social organization with chapters across the globe. 
+  Our members are top tier students and new grads interested or already working 
+  in STEM fields.
 copyright: 'Copyright &copy; 2019 The Manks. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -27,6 +27,8 @@ permalink: pretty
 
 social:
   - title: github
+    icon: github
     url: https://github.com/TheManks/
   - title: apply
-    url: 
+    icon: check
+    url: https://forms.gle/bRWLvGCEx7BC9j6s9
