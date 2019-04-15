@@ -33,6 +33,7 @@ social:
     icon: check
     url: https://forms.gle/bRWLvGCEx7BC9j6s9
   - title: twitter
+    icon: twitter
     url: https://twitter.com/the_manks
   - title: contact
     icon: envelope
